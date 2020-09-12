@@ -3,7 +3,7 @@ Intro: Responses
 
 D. Install Git
 --------------
-Version: git version 2.24.3 (Apple Git-128)
+Version: git version 2.28.0
 
 
 E. Install Python
