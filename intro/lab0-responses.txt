@@ -13,4 +13,4 @@ Version: Python 3.8.5
 
 F. Install pip
 --------------
-Version:
+Version: pip 20.1.1
