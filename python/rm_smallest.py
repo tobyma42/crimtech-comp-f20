@@ -1,5 +1,16 @@
 def rm_smallest(d):
     # Your code here!
+    values = []
+    if bool(d) == True:
+        for x in d:
+            values.append(d[x])
+        values.sort()
+        for x in d:
+            if d[x] == values[0]:
+                y = x
+        del d[y]
+    else:
+        return d
     return d
 
 def test():
